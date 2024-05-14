@@ -16,7 +16,7 @@
 👨‍💻  I am passionate about Software Developement & I enjoy learning new things. </br>
 🌱 I’m currently learning Back-end Developing </br>
 💬 Ask me about Software Developement </br>
-📫 How to reach me: 2019umt1489@mnit.ac.in </br>
+📫 How to reach me: priyalmalviya30102@gmail.com </br>
 ⚡ Fun fact: I am always looking forward for collaboration and code</br>
 
 ### Languages and Tools:
